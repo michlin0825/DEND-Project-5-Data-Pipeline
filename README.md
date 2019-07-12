@@ -45,7 +45,7 @@
 * Time Dimension Table
 
 
-### Data Pipleines
+### Data Pipelines
 ![DAG Flow](dag-flow.png)
 
 
